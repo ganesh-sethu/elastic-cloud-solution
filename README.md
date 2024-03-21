@@ -16,6 +16,8 @@
   - Application Load Balancer (ALB)
 
 ----
+![assest](assest/diagram_elastic_cloud.drawio.svg)
+
 
 **Project Steps:**
 
